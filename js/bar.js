@@ -20,13 +20,13 @@ function drawBar() {
 
     var options = {
         //title: 'Budget categories',
+        //legend: 'none',
         //hAxis: {
         //    textPosition: 'none',
         //    gridlines: {
         //        color: 'transparent'
         //    }
         //},
-        //legend: 'none',
         //annotations: {
         //    alwaysOutside: true
         //}

@@ -17,14 +17,14 @@ function drawColumn() {
     );
 
     var options = {
-    //    title: 'Budget categories',
-    //    legend: 'none',
-    //    vAxis: {
-    //        textPosition: 'none',
-    //        gridlines: {
-    //            color: 'transparent'
-    //        }
-    //    }
+        //title: 'Budget categories',
+        //legend: 'none',
+        //vAxis: {
+        //    textPosition: 'none',
+        //   gridlines: {
+        //        color: 'transparent'
+        //    }
+        //}
     }
 
     var element = document.getElementById('columnChart');
