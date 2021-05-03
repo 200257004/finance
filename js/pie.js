@@ -20,7 +20,7 @@ function drawPie() {
         //    1: { color: 'grey' },
         //    2: { color: 'lightgrey' },
         //    3: { color: 'grey'},
-        //    4: { offset: 0.4 }
+        //    4: {}
         //}
     };
 
