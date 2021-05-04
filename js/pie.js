@@ -9,18 +9,19 @@ function drawPie() {
             ['Entertainment', 900]
         ]
     );
+    
+    //table.sort([{ column: 1, desc: true }]);
 
     var options = {
         //title: 'Budget categories',
-        //is3D: true,
         //legend: 'labeled',
         //pieSliceText: 'value',
         //slices: {
         //    0: {},
-        //    1: { color: 'grey' },
-        //    2: { color: 'lightgrey' },
-        //    3: { color: 'grey'},
-        //    4: {}
+        //    1: { color: '#990099' },
+        //    2: { color: 'grey' },
+        //    3: { color: 'lightgrey' },
+        //    4: { color: 'grey' }
         //}
     };
 
