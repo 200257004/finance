@@ -17,7 +17,7 @@ function drawPie() {
         //legend: 'labeled',
         //pieSliceText: 'value',
         //slices: {
-        //    0: {},
+        //    0: { color: '#3366CC'},
         //    1: { color: '#990099' },
         //    2: { color: 'grey' },
         //    3: { color: 'lightgrey' },

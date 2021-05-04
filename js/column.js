@@ -21,7 +21,7 @@ function drawColumn() {
         //legend: 'none',
         //vAxis: {
         //    textPosition: 'none',
-        //   gridlines: {
+        //    gridlines: {
         //        color: 'transparent'
         //    }
         //}
